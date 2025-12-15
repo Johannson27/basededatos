@@ -142,4 +142,10 @@
   <data name="download (11)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download (11).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="_169024421_ilustración_vectorial_de_bienvenida_para_la_apertura_de_páginas_web_pancartas_presentaciones" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\169024421-ilustración-vectorial-de-bienvenida-para-la-apertura-de-páginas-web-pancartas-presentaciones.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_6681204" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6681204.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

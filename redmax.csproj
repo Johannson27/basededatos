@@ -218,5 +218,14 @@
   <ItemGroup>
     <None Include="Resources\download %2811%29.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empresa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\169024421-ilustración-vectorial-de-bienvenida-para-la-apertura-de-páginas-web-pancartas-presentaciones.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6681204.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

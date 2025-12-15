@@ -6,7 +6,7 @@ namespace redmax
     partial class catalogoproductos
     {
         /// <summary>
-        /// Required designer variable.
+        /// Required designer variable
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
@@ -274,6 +274,7 @@ namespace redmax
             this.btnRefrescar.TabIndex = 12;
             this.btnRefrescar.Text = "Refrescar";
             this.btnRefrescar.UseVisualStyleBackColor = true;
+            this.btnRefrescar.Click += new System.EventHandler(this.btnRefrescar_Click);
             // 
             // cmbCategoria
             // 

@@ -63,6 +63,27 @@ namespace redmax.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _169024421_ilustración_vectorial_de_bienvenida_para_la_apertura_de_páginas_web_pancartas_presentaciones {
+            get {
+                object obj = ResourceManager.GetObject("_169024421_ilustración_vectorial_de_bienvenida_para_la_apertura_de_páginas_web_pa" +
+                        "ncartas_presentaciones", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _6681204 {
+            get {
+                object obj = ResourceManager.GetObject("_6681204", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap basket_cart_icon_27 {
             get {
                 object obj = ResourceManager.GetObject("basket-cart-icon-27", resourceCulture);
